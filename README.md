@@ -29,15 +29,6 @@ I believe in learning through experimentation, solving real-world problems, and 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Prople Store](https://prople.co.in) | An app discovery platform focused on developer visibility and distribution. |
-| [Cloaktail Industries](https://cloaktail.com) | A technology venture exploring software, AI, robotics, and engineering. |
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
