@@ -82,4 +82,8 @@ I believe in learning through experimentation, solving real-world problems, and 
 
 *Learn continuously. Build thoughtfully. Solve real problems.*
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sam-live29&color=0e75b6&style=flat)
+
 </div>
